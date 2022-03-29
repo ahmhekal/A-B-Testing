@@ -1,2 +1,2 @@
 # A-B-Testing
-Pulpability, Hypothesis Testing,  A / B Testing, Regression
+Propability, Hypothesis Testing,  A / B Testing, Regression
